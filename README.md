@@ -1,6 +1,7 @@
 # React + Vite
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/37e883e7-8dcb-4b48-95bd-b3d4b88e5f5a" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4b74332c-25a8-4f6f-8a8d-5075098d522b" />
+
 PROJECT LIVE-LINK : https://usestateincounterandform.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
