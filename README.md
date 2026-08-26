@@ -1,6 +1,7 @@
 # React + Vite
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4b74332c-25a8-4f6f-8a8d-5075098d522b" />
+<img width="3840" height="2149" alt="image" src="https://github.com/user-attachments/assets/079388df-5d9c-4bf4-9950-90b81b9532f8" />
+
 
 PROJECT LIVE-LINK : https://usestateincounterandform.netlify.app/
 
